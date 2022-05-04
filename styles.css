@@ -10,7 +10,7 @@ iframe {
 }
 
 @media only screen and (max-width: 600px) {
-  desktop {
+  .desktop {
     display: none;
   }
 }
